@@ -72,7 +72,7 @@ export const metadata: Metadata = {
     'Royol Technology',
     'Mex509',
     'AI Digital Marketing',
-    'Port St. Lucie',
+    'Florida',
     'Next.js',
     'Python',
     'FastAPI',

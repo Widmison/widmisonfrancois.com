@@ -5,7 +5,7 @@
 - Name: Widmison Francois
 - Website: https://widmisonfrancois.com
 - Roles: Full-Stack Web Developer; Digital Marketing Strategist; Founder of Royol Technology
-- Location: Port St. Lucie / South Florida, Florida, United States
+- Location: Florida, United States
 - Email: widmisonfrancois@royoltechnology.com
 - Education: Palm Beach State College — Computer Programming (2023)
 

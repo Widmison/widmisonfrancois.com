@@ -34,7 +34,6 @@ export function JsonLd() {
         },
         address: {
           '@type': 'PostalAddress',
-          addressLocality: 'Port St. Lucie',
           addressRegion: 'FL',
           addressCountry: 'US',
         },

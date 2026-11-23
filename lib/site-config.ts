@@ -56,8 +56,8 @@ export const siteConfig = {
   shortName: 'WF.',
   domain: 'https://widmisonfrancois.com',
   email: 'widmisonfrancois@royoltechnology.com',
-  location: 'Port St. Lucie / South Florida, FL, US',
-  locationShort: 'Port St. Lucie, FL',
+  location: 'Florida, US',
+  locationShort: 'Florida',
   jobTitle: 'Full-Stack Web Developer & AI Digital Marketing Strategist',
   headline:
     'Building High-Performance Web Applications & AI-Powered Digital Growth Engines.',
@@ -66,7 +66,7 @@ export const siteConfig = {
   availability:
     'Open for Web Engineering, AI Growth & Brand Partnerships',
   eyebrow:
-    'Port St. Lucie, FL • Full-Stack Web Developer & AI Growth Architect',
+    'Florida • Full-Stack Web Developer & AI Growth Architect',
   alumniOf: {
     name: 'Palm Beach State College',
     program: 'Computer Programming',
