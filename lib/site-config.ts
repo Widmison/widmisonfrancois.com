@@ -70,7 +70,7 @@ export const siteConfig = {
   alumniOf: {
     name: 'Palm Beach State College',
     program: 'Computer Programming',
-    year: '2023',
+    year: '2020',
   },
   organization: {
     name: 'Royol Technology',
@@ -311,17 +311,17 @@ export const siteConfig = {
   timeline: [
     {
       id: 'college',
-      year: '2023',
+      year: '2020',
       title: 'Palm Beach State College',
       description:
-        'Widmison Francois completed Computer Programming at Palm Beach State College, grounding full-stack engineering fundamentals that still shape every production build.',
+        'Widmison Francois graduated from Palm Beach State College in 2020 with Computer Programming, grounding full-stack engineering fundamentals that still shape every production build.',
     },
     {
       id: 'founding',
-      year: '2023–2024',
+      year: '2020',
       title: 'Founding Royol Technology',
       description:
-        'Launched Royol Technology as a digital growth and engineering studio—pairing custom web platforms with AI-driven content systems.',
+        'Started Royol Technology in 2020 as a digital growth and engineering studio—pairing custom web platforms with AI-driven content systems.',
     },
     {
       id: 'mex509-fiber',
