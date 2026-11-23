@@ -39,9 +39,6 @@ export function Footer() {
           </li>
         </ul>
       </div>
-      <p className="section-wrap section-pad mt-6 text-center text-xs text-muted/80">
-        Engineered with Next.js • Deployed on GitHub Pages
-      </p>
     </footer>
   );
 }
